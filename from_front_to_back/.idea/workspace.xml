@@ -1,8 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="084500a1-9c4b-4bf7-8f11-7efbc5e10d0b" name="Default Changelist" comment="">
+    <list default="true" id="084500a1-9c4b-4bf7-8f11-7efbc5e10d0b" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/generatorSqlmapCustom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/GeneratorSqlmap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/mapper/TbChatRecordMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/mapper/TbChatRecordMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/mapper/TbFriendMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/mapper/TbFriendMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/mapper/TbFriendReqMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/mapper/TbFriendReqMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/mapper/TbUserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/mapper/TbUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbChatRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbChatRecordExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbChatRecordExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbChatRecordExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbChatRecordExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbFriend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbFriendExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbFriendExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbFriendExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbFriendExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbFriendReq.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbFriendReqExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbFriendReqExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbFriendReqExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbFriendReqExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbUserExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbUserExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbUserExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/com/itheima/hchat/pojo/TbUserExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/bin/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/lib/mybatis-3.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/lib/mybatis-generator-core-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/lib/mysql-connector-java-5.1.28-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/lib/ojdbc14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/src/GeneratorSqlmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generatorSqlmapCustom/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_generator/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_generator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_generator/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_generator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_generator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_generator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_generator/mybatis_generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_generator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_generator/src/main/resources/mybatis-generator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,16 +70,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1aUs44uEx7lcdSoq9Ei2N6Qbd9X" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crudzhp" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -75,7 +138,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586801312184</updated>
-      <workItem from="1586801318906" duration="1047000" />
+      <workItem from="1586801318906" duration="3330000" />
+      <workItem from="1586922664461" duration="2155000" />
+      <workItem from="1586955376666" duration="1810000" />
     </task>
     <servers />
   </component>
@@ -87,10 +152,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
